@@ -5,9 +5,9 @@ A Java-based **Student Course Registration System developed for CodSoft. This gr
 
 Features:
 - Graphical User Interface (GUI)** using Swing.
-- Course Management** – View, register, and drop courses.
-- Student Enrollment** – Ensures capacity limits for courses.
-- Dynamic Updates** – Course lists update in real time.
+- Course Management – View, register, and drop courses.
+- Student Enrollment – Ensures capacity limits for courses.
+- Dynamic Updates – Course lists update in real time.
 
 
 Technologies Used:
