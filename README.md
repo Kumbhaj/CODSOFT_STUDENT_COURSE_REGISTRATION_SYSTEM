@@ -1,6 +1,6 @@
 Student Course Registration System
 
-A Java-based **Student Course Registration System developed for CodSoft. This graphical application enables students to register for courses, view available courses, and drop courses using a simple and interactive GUI.
+A Java-based Student Course Registration System developed for CodSoft. This graphical application enables students to register for courses, view available courses, and drop courses using a simple and interactive GUI.
 
 
 Features:
